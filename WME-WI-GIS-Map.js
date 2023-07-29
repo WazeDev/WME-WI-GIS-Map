@@ -9,6 +9,9 @@
 // @license      GNU GPLv3
 // ==/UserScript==
 
+// NOTE: As of July 2023, the WI parcel viewer was changed so that it no longer works with this code.
+// There is not "map" object to manipulate. So this script is broken, probably for good...
+
 (function() {
     'use strict';
 
